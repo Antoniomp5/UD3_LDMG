@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UFC-8"
+    <librerías>
+        <libro descripcion="Señor de los Anillos: El Retorno del Rey">
+            <Fecha>
+                <dia>29</dia>
+                <mes>7</mes>
+                <año>1954</año>
+            </Fecha>
+            <Autor>
+            <Nombre>J.R.R._Tolkien</Nombre>
+            <Género>Hombre</Género>
+            </Autor>
+            <Editorial>Minotauro</Editorial>
+            <ISBM>9788445009598</ISBM>
+            <Género>Fantasía_heroíca<Género>
+            </libro>
+        <libro descripcion="Harry Potter: Las Reliquias de la Muerte">
+            <Fecha>
+                <dia>21</dia>
+                <mes>7</mes>
+                <año>2007</año>
+            </Fecha>
+            <Autor>
+            <Nombre>J.K._Rowling</Nombre>
+            <Género>Mujer</Género>
+            </Autor>
+            <Editorial>Salamadra</Editorial>
+            <ISBM>9788498386349</ISBM>
+            <Género>Fantasía<Género>
+            </libro>
+        <libro descripcion="Dragon Ball Super">
+            <Fecha>
+                <dia>20</dia>
+                <mes>6</mes>
+                <año>2015</año>
+            </Fecha>
+            <Autor>
+            <Nombre>Akira_Toriyama</Nombre>
+            <Género>Hombre</Género>
+            <Nombre>Toyotarô</Nombre>
+            <Género>Hombre</Género>
+            </Autor>
+            <Editorial>Planeta</Editorial>
+            <ISBM>9788411401364</ISBM>
+            <Género>Manga_Shonën<Género>
+            </libro>
+        <libro descripcion="Soy Leyenda">
+            <Fecha>
+                <dia>-</dia>
+                <mes>7</mes>
+                <año>1954</año>
+            </Fecha>
+            <Autor>
+            <Nombre>Richard_Matheson</Nombre>
+            <Género>Hombre</Género>
+            </Autor>
+            <Editorial>Booket</Editorial>
+            <ISBM>9788445003961</ISBM>
+            <Género>Ciencia_ficción,_Horror<Género>
+        </libro>
+        <libro id="5">
+            <Autor>
+            <Nombre>Guy_Haley</Nombre>
+            <s:Género>Hombre</s:Género>
+            </Autor>
+            <Editorial>Minotauro</Editorial>
+            <ISBM>9788445016015</ISBM>
+            <l:Género>Ciencia_ficción,_Fantasía_oscura<l:Género>
+           <Título>Warhammer_40.000:El_Imperio_Oscuro</Título>
+           <Fecha>12/7/2023</Fecha>
+        </libro>
+        <libro id="6">
+            <Autor>
+            <Nombre></Nombre>
+            <s:Género></s:Género>
+            </Autor>
+            <Editorial></Editorial>
+            <ISBM></ISBM>
+            <l:Género><l:Género>
+           <Título></Título>
+           <Fecha></Fecha>
+        </libro>
+        <libro id="7">
+            <Autor>
+            <Nombre></Nombre>
+            <s:Género></s:Género>
+            </Autor>
+            <Editorial></Editorial>
+            <ISBM></ISBM>
+            <l:Género><l:Género>
+           <Título></Título>
+           <Fecha></Fecha>
+        </libro>
+        <libro id="8">
+            <Autor>
+            <Nombre></Nombre>
+            <s:Género></s:Género>
+            </Autor>
+            <Editorial></Editorial>
+            <ISBM></ISBM>
+            <l:Género><l:Género>
+           <Título></Título>
+           <Fecha></Fecha>
+        </libro>
+        <libro id="9">
+            <Autor>
+            <Nombre></Nombre>
+            <s:Género></s:Género>
+            </Autor>
+            <Editorial></Editorial>
+            <ISBM></ISBM>
+            <l:Género><l:Género>
+           <Título></Título>
+           <Fecha></Fecha>
+        </libro>
+        <libro id="10">
+            <Autor>
+            <Nombre></Nombre>
+            <s:Género></s:Género>
+            </Autor>
+            <Editorial></Editorial>
+            <ISBM></ISBM>
+            <l:Género><l:Género>
+           <Título></Título>
+           <Fecha></Fecha>
+        </libro>
+    </librerías>
