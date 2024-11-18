@@ -1,0 +1,43 @@
+{
+  "proyectos": [
+    {
+      "id": 1,
+      "nombre": "Sistema de Gestión",
+      "equipo": [
+        {"id": 101, "nombre": "Juan Pérez"},
+        {"id": 102, "nombre": "María Rodríguez"},
+        {"id": 105, "nombre":"José María Aznar"}
+      ],
+      "tareas": [
+        {"id": 201, "descripcion": "Diseño de la interfaz", "completada": true},
+        {"id": 202, "descripcion": "Desarrollo del backend", "completada": true},
+        {"id": 202, "descripcion": "Desarrollo del frontend", "completada": false}
+      ]
+    },
+    {
+      "id": 2,
+      "nombre": "Aplicación Móvil",
+      "equipo": [
+        {"id": 103, "nombre": "Carlos Gómez"},
+        {"id": 104, "nombre": "Ana López"}
+      ],
+      "tareas": [
+        {"id": 203, "descripcion": "Desarrollo de funciones principales", "completada": true},
+        {"id": 204, "descripcion": "Pruebas de rendimiento", "completada": true}
+      ]
+    },
+    {
+      "id": 3,
+      "nombre": "Desarrollo de la base de datos",
+      "equipo": [
+        {"id": 306, "nombre": "Juan Alberto García"},
+        {"id": 307, "nombre": "Andres Alguacil"}
+      ],
+      "tareas": [
+        {"id": 306, "descripcion": "Creación del mapa conceptual de la base de datos", "completada": false },
+        {"id": 307, "descripcion": "Creación de la base de datos", "completada": false }
+      ]
+    }
+
+  ]
+}
