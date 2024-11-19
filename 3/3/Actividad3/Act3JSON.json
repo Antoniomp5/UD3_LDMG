@@ -1,0 +1,32 @@
+{
+   "inventario": {
+      "productos": {
+         "producto": [
+            {
+               "nombre": "PS5",
+               "precio": "299.99",
+               "fecha_ingreso": "2024-01-10",
+               "stock": "345",
+               "_codigo": "001",
+               "_categoria": "Consolas"
+            },
+            {
+               "nombre": "TV Samsumg smart TV",
+               "precio": "358.80",
+               "fecha_ingreso": "2023-07-16",
+               "stock": "500",
+               "_codigo": "002",
+               "_categoria": "Electrodomesticos"
+            },
+            {
+               "nombre": "Ratón Razer",
+               "precio": "29.99",
+               "fecha_ingreso": "2024-05-17",
+               "stock": "200",
+               "_codigo": "003",
+               "_categoria": "PC"
+            }
+         ]
+      }
+   }
+}
