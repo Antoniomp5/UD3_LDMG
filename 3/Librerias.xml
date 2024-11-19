@@ -1,127 +1,122 @@
-<?xml version="1.0" encoding="UFC-8"
-    <librerías>
-        <libro descripcion="Señor de los Anillos: El Retorno del Rey">
-            <Fecha>
-                <dia>29</dia>
-                <mes>7</mes>
-                <año>1954</año>
-            </Fecha>
-            <Autor>
-            <Nombre>J.R.R._Tolkien</Nombre>
-            <Género>Hombre</Género>
-            </Autor>
-            <Editorial>Minotauro</Editorial>
-            <ISBM>9788445009598</ISBM>
-            <Género>Fantasía_heroíca<Género>
-            </libro>
-        <libro descripcion="Harry Potter: Las Reliquias de la Muerte">
-            <Fecha>
-                <dia>21</dia>
-                <mes>7</mes>
-                <año>2007</año>
-            </Fecha>
-            <Autor>
-            <Nombre>J.K._Rowling</Nombre>
-            <Género>Mujer</Género>
-            </Autor>
-            <Editorial>Salamadra</Editorial>
-            <ISBM>9788498386349</ISBM>
-            <Género>Fantasía<Género>
-            </libro>
-        <libro descripcion="Dragon Ball Super">
-            <Fecha>
-                <dia>20</dia>
-                <mes>6</mes>
-                <año>2015</año>
-            </Fecha>
-            <Autor>
-            <Nombre>Akira_Toriyama</Nombre>
-            <Género>Hombre</Género>
-            <Nombre>Toyotarô</Nombre>
-            <Género>Hombre</Género>
-            </Autor>
-            <Editorial>Planeta</Editorial>
-            <ISBM>9788411401364</ISBM>
-            <Género>Manga_Shonën<Género>
-            </libro>
-        <libro descripcion="Soy Leyenda">
-            <Fecha>
-                <dia>-</dia>
-                <mes>7</mes>
-                <año>1954</año>
-            </Fecha>
-            <Autor>
-            <Nombre>Richard_Matheson</Nombre>
-            <Género>Hombre</Género>
-            </Autor>
-            <Editorial>Booket</Editorial>
-            <ISBM>9788445003961</ISBM>
-            <Género>Ciencia_ficción,_Horror<Género>
-        </libro>
-        <libro id="5">
-            <Autor>
-            <Nombre>Guy_Haley</Nombre>
-            <s:Género>Hombre</s:Género>
-            </Autor>
-            <Editorial>Minotauro</Editorial>
-            <ISBM>9788445016015</ISBM>
-            <l:Género>Ciencia_ficción,_Fantasía_oscura<l:Género>
-           <Título>Warhammer_40.000:El_Imperio_Oscuro</Título>
-           <Fecha>12/7/2023</Fecha>
-        </libro>
-        <libro id="6">
-            <Autor>
-            <Nombre></Nombre>
-            <s:Género></s:Género>
-            </Autor>
-            <Editorial></Editorial>
-            <ISBM></ISBM>
-            <l:Género><l:Género>
-           <Título></Título>
-           <Fecha></Fecha>
-        </libro>
-        <libro id="7">
-            <Autor>
-            <Nombre></Nombre>
-            <s:Género></s:Género>
-            </Autor>
-            <Editorial></Editorial>
-            <ISBM></ISBM>
-            <l:Género><l:Género>
-           <Título></Título>
-           <Fecha></Fecha>
-        </libro>
-        <libro id="8">
-            <Autor>
-            <Nombre></Nombre>
-            <s:Género></s:Género>
-            </Autor>
-            <Editorial></Editorial>
-            <ISBM></ISBM>
-            <l:Género><l:Género>
-           <Título></Título>
-           <Fecha></Fecha>
-        </libro>
-        <libro id="9">
-            <Autor>
-            <Nombre></Nombre>
-            <s:Género></s:Género>
-            </Autor>
-            <Editorial></Editorial>
-            <ISBM></ISBM>
-            <l:Género><l:Género>
-           <Título></Título>
-           <Fecha></Fecha>
-        </libro>
-        <libro id="10">
-            <Autor>
-            <Nombre></Nombre>
-            <s:Género></s:Género>
-            </Autor>
-            <Editorial></Editorial>
-            <ISBM></ISBM>
-            <l:Género><l:Género>
-           <Título></Título>
-           <Fecha></Fecha>
-        </libro>
-    </librerías>
+<?xml version="1.0" encoding="UTF-8"?>
+<librerías>
+    <libro id="1">
+        <Autor>
+            <Nombre>Gabriel García Márquez</Nombre>
+            <s:Género>Realismo mágico</s:Género>
+        </Autor>
+        <Editorial>Editorial Sudamericana</Editorial>
+        <ISBM>978-3-16-148410-0</ISBM>
+        <l:Género>Novela</l:Género>
+        <Título>Cien años de soledad</Título>
+        <Fecha>1967-06-05</Fecha>
+    </libro>
+
+    <libro id="2">
+        <Autor>
+            <Nombre>J.K. Rowling</Nombre>
+            <s:Género>Fantasía</s:Género>
+        </Autor>
+        <Editorial>Salamandra</Editorial>
+        <ISBM>978-0-7432-8800-0</ISBM>
+        <l:Género>Novela</l:Género>
+        <Título>Harry Potter y la piedra filosofal</Título>
+        <Fecha>1997-06-26</Fecha>
+    </libro>
+
+    <libro id="3">
+        <Autor>
+            <Nombre>J.R.R. Tolkien</Nombre>
+            <s:Género>Fantasía</s:Género>
+        </Autor>
+        <Editorial>Minotauro</Editorial>
+        <ISBM>978-84-450-7880-1</ISBM>
+        <l:Género>Novela</l:Género>
+        <Título>El señor de los anillos: La comunidad del anillo</Título>
+        <Fecha>1954-07-29</Fecha>
+    </libro>
+
+    <libro id="4">
+        <Autor>
+            <Nombre>Haruki Murakami</Nombre>
+            <s:Género>Contemporáneo</s:Género>
+        </Autor>
+        <Editorial>Editorial Anagrama</Editorial>
+        <ISBM>978-84-339-9415-9</ISBM>
+        <l:Género>Novela</l:Género>
+        <Título>1Q84</Título>
+        <Fecha>2009-05-29</Fecha>
+    </libro>
+
+    <libro id="5">
+        <Autor>
+            <Nombre>F. Scott Fitzgerald</Nombre>
+            <s:Género>Novela de época</s:Género>
+        </Autor>
+        <Editorial>Editorial Mondadori</Editorial>
+        <ISBM>978-0-7432-7356-3</ISBM>
+        <l:Género>Novela</l:Género>
+        <Título>El gran Gatsby</Título>
+        <Fecha>1925-04-10</Fecha>
+    </libro>
+
+    <libro id="6">
+        <Autor>
+            <Nombre>George Orwell</Nombre>
+            <s:Género>Dystopia</s:Género>
+        </Autor>
+        <Editorial>Editorial Planeta</Editorial>
+        <ISBM>978-0-452-28423-4</ISBM>
+        <l:Género>Novela</l:Género>
+        <Título>1984</Título>
+        <Fecha>1949-06-08</Fecha>
+    </libro>
+
+    <libro id="7">
+        <Autor>
+            <Nombre>Isaac Asimov</Nombre>
+            <s:Género>Ciencia ficción</s:Género>
+        </Autor>
+        <Editorial>Editorial Minotauro</Editorial>
+        <ISBM>978-0-553-80371-0</ISBM>
+        <l:Género>Ciencia ficción</l:Género>
+        <Título>Fundación</Título>
+        <Fecha>1951-06-01</Fecha>
+    </libro>
+
+    <libro id="8">
+        <Autor>
+            <Nombre>Margaret Atwood</Nombre>
+            <s:Género>Dystopia</s:Género>
+        </Autor>
+        <Editorial>Ediciones Salamandra</Editorial>
+        <ISBM>978-0-385-49793-7</ISBM>
+        <l:Género>Novela</l:Género>
+        <Título>El cuento de la criada</Título>
+        <Fecha>1985-08-01</Fecha>
+    </libro>
+
+    <libro id="9">
+        <Autor>
+            <Nombre>Mario Vargas Llosa</Nombre>
+            <s:Género>Realismo social</s:Género>
+        </Autor>
+        <Editorial>Editorial Seix Barral</Editorial>
+        <ISBM>978-0-15-602978-2</ISBM>
+        <l:Género>Novela</l:Género>
+        <Título>La ciudad y los perros</Título>
+        <Fecha>1963-01-01</Fecha>
+    </libro>
+
+    <libro id="10">
+        <Autor>
+            <Nombre>Paulo Coelho</Nombre>
+            <s:Género>Ficción</s:Género>
+        </Autor>
+        <Editorial>Ediciones Planeta</Editorial>
+        <ISBM>978-0-06-112241-5</ISBM>
+        <l:Género>Novela</l:Género>
+        <Título>El alquimista</Título>
+        <Fecha>1988-05-01</Fecha>
+    </libro>
+</librerías>
